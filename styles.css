@@ -1,0 +1,260 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ p{
+ 	padding: 0;
+ 	margin: 0;
+ 	font-size: 7px;
+ 	font-weight: bold;
+ }
+
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 324px;
+	 height: 204px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Flag 
+{ 
+	 left: 265px; 
+	 top: 127px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 30px;
+	 z-index:1;
+} 
+
+ #image 
+{ 
+	 left: 254px; 
+	 top: 46px; 
+	 position: absolute; 
+	 width: 51px;
+	 height: 65px;
+	 z-index:2;
+} 
+
+ #signaturecopy3 
+{ 
+	 left: 35px; 
+	 top: 162px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 21px;
+	 z-index:3;
+} 
+
+ #signaturecopy4 
+{ 
+	 left: 35px; 
+	 top: 162px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 21px;
+	 z-index:4;
+} 
+
+ #signaturecopy5 
+{ 
+	 left: 35px; 
+	 top: 162px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 21px;
+	 z-index:5;
+} 
+
+ #signaturecopy6 
+{ 
+	 left: 35px; 
+	 top: 162px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 21px;
+	 z-index:6;
+} 
+
+ #layer_010600045334 
+{ 
+	 left: 51px; 
+	 top: 42px; 
+	 position: absolute; 
+	 z-index:7;
+} 
+
+ #NEP 
+{ 
+	 left: 251px; 
+	 top: 134px; 
+	 position: absolute; 
+	 width: 41px;
+	 height: 15px;
+	 z-index:8;
+} 
+
+ #date_issue
+{ 
+	 left: 46px; 
+	 top: 130px; 
+	 position: absolute; 
+	 width: 48px;
+	 height: 7px;
+	 z-index:9;
+} 
+
+ #date_expire
+{ 
+	 left: 45px; 
+	 top: 143px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 7px;
+	 z-index:10;
+} 
+
+ #category
+{ 
+	 left: 304px; 
+	 top: 113px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 7px;
+	 z-index:11;
+} 
+
+ #blood_group
+{ 
+	 left: 45px; 
+	 top: 53px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 8px;
+	 z-index:12;
+} 
+
+ #name 
+{ 
+	 left: 148px; 
+	 top: 42px; 
+	 position: absolute; 
+	 width: 82px;
+	 height: 7px;
+	 z-index:13;
+} 
+
+ #father_name 
+{ 
+	 left: 166px; 
+	 top: 107px; 
+	 position: absolute; 
+	 width: 60px;
+	 height: 9px;
+	 z-index:14;
+} 
+
+ #citizenship 
+{ 
+	 left: 181px; 
+	 top: 121px; 
+	 position: absolute; 
+	 width: 48px;
+	 height: 7px;
+	 z-index:15;
+} 
+
+ #passport 
+{ 
+	 left: 172px; 
+	 top: 134px; 
+	 position: absolute; 
+	 width: 56px;
+	 height: 7px;
+	 z-index:16;
+} 
+
+ #phone_no 
+{ 
+	 left: 171px; 
+	 top: 148px; 
+	 position: absolute; 
+	 width: 52px;
+	 height: 7px;
+	 z-index:17;
+} 
+
+ #dob 
+{ 
+	 left: 152px; 
+	 top: 93px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 7px;
+	 z-index:18;
+} 
+
+ #issue_zone 
+{ 
+	 left: 186px; 
+	 top: 80px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 9px;
+	 z-index:19;
+} 
+
+ #address 
+{ 
+	 left: 159px; 
+	 top: 54px; 
+	 position: absolute; 
+	 width: 64px;
+	 height: 27px;
+	 z-index:20;
+} 
+
+ #uefjS 
+{ 
+	 left: 254px; 
+	 top: 171px; 
+	 position: absolute; 
+	 width: 27px;
+	 height: 11px;
+	 z-index:21;
+} 
+
+ #uefjScopy 
+{ 
+	 left: 254px; 
+	 top: 171px; 
+	 position: absolute; 
+	 width: 27px;
+	 height: 11px;
+	 z-index:22;
+} 
+
+ #uefjScopy2 
+{ 
+	 left: 254px; 
+	 top: 171px; 
+	 position: absolute; 
+	 width: 27px;
+	 height: 11px;
+	 z-index:23;
+} 
+
+.row{
+	width: 168px;
+	margin: 20px auto;
+}
+.row button, .row a{
+	width: 48%;
+	margin-left: 2%;
+}
